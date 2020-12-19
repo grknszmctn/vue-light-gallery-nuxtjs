@@ -20,3 +20,6 @@ $ yarn run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+
+## DEMO
+https://codesandbox.io/s/github/grknszmctn/vue-light-gallery-nuxtjs
